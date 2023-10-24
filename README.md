@@ -5,4 +5,4 @@
 - 💞️ I’m looking to collaborate on ml_projects
 - 💞️ I work as a py developer
 - 📫 How to reach me ...
-You can mailto:ali.khalaji@stud.tu-darmstadt.de?subject=[GitHub]%20?)
+You can mailto:ali.khalaji@gmail.com
