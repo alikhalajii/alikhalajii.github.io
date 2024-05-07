@@ -1,8 +1,8 @@
 ### Hi there 👋
 , I’m @ali
-- 👀 I’m interested in py, ai
-- 🌱 I’m currently learning py+ml+pytorch in my private projects.
+- 👀 I’m interested in py, ai, ml
+- 🌱 I’m currently writing my master thesis focusing on responsibl-ai and computer vision.
 - 💞️ I’m looking to collaborate on ml_projects
 - 💞️ I work as a py developer
-- 📫 How to reach me ...
-You can mailto:ali.khalaji@gmail.com
+- 📫 To reach me ...
+you can mailto:ali.khalaji@stud.tu-darmstadt.de
