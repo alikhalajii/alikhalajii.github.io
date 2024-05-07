@@ -5,5 +5,5 @@
 - 💞️ I’m looking to collaborate on ml_projects
 - 💞️ I work as a py developer
 - 📫 To reach me ...
-you can mail to<a href="mailto:ali.khalaji@stud.tu-darmstadt.de">ali.khalaji@stud tu-darmstadt.de</a>
+you can mail to <a href="mailto:ali.khalaji@stud.tu-darmstadt.de">ali.khalaji@stud tu-darmstadt.de</a>
 
